@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## About Me 
 
-- 💼 I'm a recent  Computer Science graduate from the University of Bath.
+- 💼 I'm a Software Developer and a recent Computer Science graduate from the University of Bath.
 - 🌱 I have experience in multiple languages (including Python, Java, JavaScript, C, C++ and more).
-- 🔭 I have completed my dissertation, which is a smart doorbell for the visually impaired that uses ML to recognise faces on an embedded device.
-- 👯 I’m looking to collaborate on projects which aim to have a meaningful impact.
+- 🔭 I have completed mutliple projects, including my dissertation to create a smart doorbell for the visually impaired that uses ML to recognise faces on an embedded device.
+- 👯 I’m looking to collaborate on projects, which aim to have a meaningful impact.
 
 #### Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/musa-qureshi/)
