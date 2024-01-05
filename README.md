@@ -24,8 +24,9 @@ Feel free to connect with me on LinkedIn
 
 ## About Me 
 
-- 🤔 I’m currently working on an platform for music producers to find music samples (Tinder for producers)
-    - Visit @ [www.lookforsamples.com](www.lookforsamples.com) and feel free to provide any feedback.
+- 🤔 I’m currently working on two projects:
+    - A web app for music producers to find music samples (Tinder for producers). Available @ [www.lookforsamples.com](www.lookforsamples.com) and feel free to provide any feedback.
+    - A platform to learn and practice Arabic (in the Jordanian Dialect). Avaiable (but still in development) @ [https://musa-q.github.io/Arabic-Learner-React-JS/](https://musa-q.github.io/Arabic-Learner-React-JS/).
 
 - 💼 I work as a software developer, working on back-end doing web scraping.
 
@@ -33,7 +34,7 @@ Feel free to connect with me on LinkedIn
 
 - 🔭 I have completed mutliple projects, including my dissertation to create a smart doorbell for the visually impaired that uses ML to recognise faces on an embedded device.
 
-- 👯 I’m looking to collaborate on any existing or new projects.
+- 👯 I’m looking to collaborate on any existing or new projects. 
 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/musa-qureshi/)
+- 📫 Always open to new ideas and opportunities. Contact me on [LinkedIn](https://www.linkedin.com/in/musa-qureshi/).
 
