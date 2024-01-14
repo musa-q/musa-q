@@ -30,8 +30,6 @@ Feel free to connect with me on LinkedIn
 
 - 💼 I work as a software developer, working on back-end doing web scraping.
 
-- 🌱 I have experience in many programing languagesa & frameworks and always looking to expand my knowledge.
-
 - 🔭 I have completed mutliple projects, including my dissertation to create a smart doorbell for the visually impaired that uses ML to recognise faces on an embedded device.
 
 - 👯 I’m looking to collaborate on any existing or new projects. 
