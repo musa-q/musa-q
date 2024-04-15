@@ -24,9 +24,9 @@ Feel free to connect with me on LinkedIn
 
 ## About Me 
 
-- 🤔 I’m currently working on two publib projects:
+- 🤔 I’m currently working on two public projects:
     - A web app for music producers to find music samples (Tinder for producers). Available @ [www.lookforsamples.com](www.lookforsamples.com) and feel free to provide any feedback.
-    - A platform to learn and practice Arabic (in the Jordanian Dialect). Avaiable (but still in development) @ [https://www.myarabiclearner.com/](https://www.myarabiclearner.com/).
+    - A platform to learn and practice Arabic (in the Jordanian Dialect). Avaiable (but still in development) @ [www.myarabiclearner.com](www.myarabiclearner.com).
 
 - 💼 I work as a software developer, working on web scraping different company sites to extract data.
 
