@@ -25,7 +25,7 @@ Feel free to connect with me on LinkedIn
 ## About Me 
 
 - 🤔 I’m currently working on two public projects:
-    - A platform to learn and practice Arabic (tailored to the Levantine/Jordanian Dialect). Avaiable @ [www.myarabiclearner.com](www.myarabiclearner.com).
+    - A platform to learn and practice Levantine Arabic. Avaiable @ [www.myarabiclearner.com](www.myarabiclearner.com).
     - A web app for music producers to find music samples (Tinder for producers). Available @ [www.lookforsamples.com](www.lookforsamples.com) and feel free to provide any feedback.
 
 - 💼 I work as a software developer, creating and maintianing bots to web-scrape different retailer websites which extract product data.
