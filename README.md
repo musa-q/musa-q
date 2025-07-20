@@ -25,8 +25,8 @@ Feel free to connect with me on LinkedIn
 ## About Me 
 
 - 🤔 I’m currently working on two public projects:
+    - An iOS application about the 99 Names Of God.
     - A platform to learn and practice Levantine Arabic. Avaiable @ [www.myarabiclearner.com](www.myarabiclearner.com).
-    - A web app for music producers to find music samples (Tinder for producers). Available @ [www.lookforsamples.com](www.lookforsamples.com) and feel free to provide any feedback.
 
 - 💼 I work as a software developer, creating and maintianing bots to web-scrape different retailer websites which extract product data.
 
