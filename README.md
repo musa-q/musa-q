@@ -25,7 +25,7 @@ Feel free to connect with me on LinkedIn
 ## About Me 
 
 - 🤔 I’m currently working on two public projects:
-    - An iOS application about the 99 Names Of God.
+    - An iOS application about the 99 Names Of God (Asma ul Husna – Esmaül Hüsna). Available @ [https://asmaulhusna.xyz/](https://asmaulhusna.xyz/).
     - A platform to learn and practice Levantine Arabic. Avaiable @ [www.myarabiclearner.com](www.myarabiclearner.com).
 
 - 💼 I work as a software developer, creating and maintianing bots to web-scrape different retailer websites which extract product data.
