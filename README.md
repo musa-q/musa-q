@@ -1,38 +1,104 @@
-<!--
-**musa-q/musa-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Musa Qureshi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Product-minded engineer building AI-native products, autonomous systems and scalable data infrastructure.
 
-# Welcome to my GitHub! 
-Feel free to connect with me on LinkedIn
-
-<div id="badges">
+<p align="center">
   <a href="https://www.linkedin.com/in/musa-qureshi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://musaqureshi.com">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+AI-native+products+and+autonomous+systems;Full-stack+engineer+across+AI%2C+mobile+and+infrastructure;Focused+on+shipping+practical+systems+with+real-world+impact" />
+
 </div>
 
-## About Me 
+---
 
-- 🤔 I’m currently working on two public projects:
-    - An iOS application about the 99 Names Of God (Asma ul Husna – Esmaül Hüsna). Available @ [https://asmaulhusna.xyz/](https://asmaulhusna.xyz/).
-    - A platform to learn and practice Levantine Arabic. Avaiable @ [www.myarabiclearner.com](www.myarabiclearner.com).
+## About Me
 
-- 💼 I work as a software developer, creating and maintianing bots to web-scrape different retailer websites which extract product data.
+Currently engineering large-scale data acquisition systems at Opensignal while building end-to-end AI products across web, mobile and machine learning.
 
-- 🔭 I have completed mutliple projects, including my dissertation to create a smart doorbell for the visually impaired that uses ML to recognise faces on an embedded device.
+I enjoy building systems that operate in messy, real-world environments — from autonomous developer tooling and large-scale infrastructure to AI-powered mobile products and personalised learning experiences.
 
-- 👯 I’m looking to collaborate on any existing or new projects - please reach out to me. 
+---
 
-- 📫 Always open to new ideas and opportunities. Contact me on [LinkedIn](https://www.linkedin.com/in/musa-qureshi/).
+## Currently Building
 
+### 🧠 Tilawah — AI-Powered Quran Companion
+
+Voice-driven Quran learning and exploration app using orchestration workflows, AI tooling and dynamic mobile experiences.
+
+* Natural voice and text interaction
+* Dynamic orchestration workflows
+* Personalised learning experiences
+* Whisper + modular AI tooling
+
+---
+
+### 🌍 My Arabic Learner
+
+Platform for learning Levantine Arabic through structured content and personalised learning systems.
+
+Currently developing:
+
+* AI-powered mobile learning experiences
+* Custom NLP translation models
+* Low-resource dialect tooling
+* Personalised learning flows
+
+---
+
+## Experience
+
+* Engineer and maintain **500+ automated data acquisition agents** powering client-critical systems for global brands including Google, Samsung and Apple.
+* Built **autonomous AI tooling** capable of diagnosing failures, iteratively modifying code and validating fixes across production infrastructure.
+* Reduced scraper error rates by **~33%** and cut issue resolution times from **hours to ~15 minutes**.
+* Led development of a **Google-commissioned AI sentiment analysis system** using multimodal and aspect-based techniques.
+
+---
+
+## Areas of Interest
+
+```txt
+Applied AI
+Autonomous Systems
+AI Orchestration Workflows
+Full-Stack Product Engineering
+Mobile Applications
+NLP & Low-Resource Language Modelling
+Large-Scale Web Infrastructure
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+| Area                         | Technologies                                                       |
+| ---------------------------- | ------------------------------------------------------------------ |
+| **Languages**                | Python • JavaScript/TypeScript • PHP • Java • C • C++              |
+| **AI / ML**                  | PyTorch • TensorFlow • Transformers • LangGraph • Whisper • OpenCV |
+| **Frontend / Mobile**        | React • React Native                                               |
+| **Backend & Infrastructure** | Flask • FastAPI • Node.js • REST APIs • MySQL                      |
+| **Data & Automation**        | Selenium • Large-scale web scraping • Autonomous workflows         |
+
+</div>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/musa-qureshi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://musaqureshi.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=firefoxbrowser&logoColor=white"/>
+  </a>
+</p>
